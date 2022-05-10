@@ -9,7 +9,15 @@ Sou apaixonado por tecnologia e me amarro em constantemente estar aprendendo nov
 
 Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, POO e SOLID, TypeScript, Python e MongoDB.
 
-<hr>
+#### Fale comigo! 🤙
+<a href="https://www.linkedin.com/in/marllomartins/">
+<img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Linkedin"
+/>
+</a>
+
+#
 
 ### Linguagens e Ferramentas
 #### Front-End
@@ -137,5 +145,11 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, POO
     height="40"
 />
 </a>
-</div>         
+</div>
 
+#
+
+<div style="display: inline_block">
+<img height="140"  src="https://github-readme-stats.vercel.app/api?username=marllomartin&show_icons=true&theme=swift&include_all_commits=true&count_private=true&hide=stars,issues&locale=pt-br">
+<img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllomartin&layout=compact&theme=swift&locale=pt-br">  
+</div>
