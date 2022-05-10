@@ -22,7 +22,7 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, POO
 ### Linguagens e Ferramentas
 #### Front-End
 <div>
-<a href="https://en.wikipedia.org/wiki/HTML">
+<a href="https://www.w3schools.com/html/">
 <img 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
      alt="HTML5"
@@ -30,7 +30,7 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, POO
      height="40"
 />
 </a>
-<a href="https://en.wikipedia.org/wiki/CSS/">
+<a href="https://www.w3schools.com/css/">
 <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
      alt="CSS3"
