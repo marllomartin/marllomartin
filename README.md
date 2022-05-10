@@ -99,7 +99,7 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, POO
 />
 </a>
 
-#### Editores
+#### Editores de Imagem
 <div>
 <a href="https://www.adobe.com/products/illustrator.html">
 <img
