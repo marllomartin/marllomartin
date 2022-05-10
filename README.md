@@ -1,5 +1,5 @@
 ## Oi, me chamo Marllon! 👋
-### Desenvolvedor Full-Stack 👨‍💻
+### Desenvolvedor Front-End 👨‍💻
 
 - Graduando em Sistemas de Informação pela [UNESA](https://estacio.br/maracana) no Rio de Janeiro 🏖️
 - Estudante de desenvolvimento Full-Stack na [Trybe](https://www.betrybe.com/) <b>#VQV</b> 🚀
