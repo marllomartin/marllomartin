@@ -5,7 +5,7 @@
 - Estudante de desenvolvimento Full-Stack na [Trybe](https://www.betrybe.com/) <b>#VQV</b> 🚀
 
 
-Sou apaixonado por tecnologia e me amarro em constantemente estar aprendendo novas skills! O que mais me motiva é poder utilizar todos os meus conhecimentos adquiridos academicamente em soluções que possam contribuir positivamente pra nossa comunidade.
+Sou apaixonado por tecnologia e me amarro em constantemente estar aprendendo novas skills! O que mais me motiva é poder utilizar todos os meus conhecimentos adquiridos academicamente em soluções que possam contribuir pra nossa comunidade.
 
 Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, TypeScript e MongoDB.
 
