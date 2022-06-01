@@ -119,7 +119,7 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, Typ
 </a>
 </div>
 
-#### Outros
+#### Ferramentas
 <div>
 <a href="https://git-scm.com/">
 <img
