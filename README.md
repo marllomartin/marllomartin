@@ -55,7 +55,7 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, Typ
     height="40"  
 />
 </a>
-<a href="https://reduxjs.org/">
+<a href="reduxjs.org/">
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
     alt="Redux"
