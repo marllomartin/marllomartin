@@ -20,7 +20,6 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, Typ
 #
 
 ### Linguagens e Ferramentas
-#### Front-End
 <div>
 <a href="https://www.w3schools.com/html/">
 <img 
@@ -46,6 +45,14 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, Typ
     height="40" 
 />
 </a>
+<a href="https://www.typescriptlang.org/">
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+    alt="TypeScript"
+    width="40"
+    height="40" 
+/>
+</a>
 <a href="https://reactjs.org/">
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -63,9 +70,6 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, Typ
     height="40"
 />
 </a>
-</div>
-
-#### Back-End
 <a href="https://www.mysql.com/">
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" 
@@ -98,29 +102,6 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, Typ
     height="40"
 />
 </a>
-
-#### Editores de Imagem
-<div>
-<a href="https://www.adobe.com/products/illustrator.html">
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-    alt="Adobe Illustrator"
-    width="40"
-    height="40"
-/>
-</a>
-<a href="https://www.adobe.com/products/photoshop.html">
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-    alt="Adobe Photoshop"
-    width="40"
-    height="40"
-/>
-</a>
-</div>
-
-#### Ferramentas
-<div>
 <a href="https://git-scm.com/">
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
