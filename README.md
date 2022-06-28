@@ -1,5 +1,4 @@
 ## Oi, me chamo Marllon! 👋
-### Desenvolvedor Front-End 👨‍💻
 
 - Graduando em Sistemas de Informação pela [UNESA](https://estacio.br/maracana) no Rio de Janeiro 🏖️
 - Estudante de desenvolvimento Full-Stack na [Trybe](https://www.betrybe.com/) <b>#VQV</b> 🚀
@@ -7,9 +6,10 @@
 
 Sou apaixonado por tecnologia e me amarro em constantemente estar aprendendo novas skills! O que mais me motiva é poder utilizar todos os meus conhecimentos adquiridos academicamente em soluções que possam contribuir pra nossa comunidade.
 
-Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, TypeScript e Sequelize.
+Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, TypeScript e Sequelize. 👨‍💻
 
 #### Fale comigo! 🤙
+
 <a href="https://www.linkedin.com/in/marllomartins/">
 <img
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
