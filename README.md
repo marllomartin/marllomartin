@@ -7,7 +7,7 @@
 
 Sou apaixonado por tecnologia e me amarro em constantemente estar aprendendo novas skills! O que mais me motiva é poder utilizar todos os meus conhecimentos adquiridos academicamente em soluções que possam contribuir pra nossa comunidade.
 
-Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, TypeScript e Sequelize. 👨‍💻
+Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, TypeScript e SOLID. 👨‍💻
 
 #### Fale comigo! 🤙
 
