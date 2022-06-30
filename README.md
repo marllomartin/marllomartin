@@ -111,30 +111,6 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, Typ
     height="40"
 />
 </a>
-<a href="https://git-scm.com/">
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    alt="Git"
-    width="40"
-    height="40"
-/>
-</a>
-<a href="https://ubuntu.com/">
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
-    alt="Ubuntu"
-    width="40"
-    height="40"
-/>
-</a>
-<a href="https://jestjs.io/">
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-    alt="Jest"
-    width="40"
-    height="40"
-/>
-</a>
 </div>
 
 #
