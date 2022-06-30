@@ -20,7 +20,7 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, Typ
 
 #
 
-### Linguagens e Ferramentas
+###
 <div>
 <a href="https://www.w3schools.com/html/">
 <img 
@@ -71,6 +71,30 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, Typ
     height="40"
 />
 </a>
+<a href="https://nodejs.org/en/">
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+    alt="Node.js"
+    width="40"
+    height="40"
+/>
+</a>
+<a href="https://sequelize.org/">
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
+    alt="Express"
+    width="40"
+    height="40"
+/>
+</a>
+<a href="https://expressjs.com/">
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+    alt="Express"
+    width="40"
+    height="40"
+/>
+</a>
 <a href="https://www.mysql.com/">
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" 
@@ -83,22 +107,6 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, Typ
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
     alt="Docker"
-    width="40"
-    height="40"
-/>
-</a>
-<a href="https://nodejs.org/en/">
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
-    alt="Node.js"
-    width="40"
-    height="40"
-/>
-</a>
-<a href="https://expressjs.com/">
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-    alt="Express"
     width="40"
     height="40"
 />
