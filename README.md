@@ -1,6 +1,6 @@
 ## Hi, I'm Marllon 👋
 
-- Bachelor's in Computer Information Science @ [UNESA](https://estacio.br/maracana) in Rio de Janeiro  🏖️
+- Bachelor's in Computer Information Systems @ [UNESA](https://estacio.br/maracana) in Rio de Janeiro  🏖️
 
 - Full-Stack Development Student @ [Trybe](https://www.betrybe.com/) <b>#VQV</b>  🚀
 
