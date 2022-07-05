@@ -1,8 +1,8 @@
 ## Hi, I'm Marllon 👋
 
-- Bachelor's in Computer Information Systems @ [UNESA](https://estacio.br/maracana) in Rio de Janeiro  🏖️
+- Computer Information Systems Student @ [UNESA](https://estacio.br/maracana) in Rio de Janeiro  🏖️
 
-- Full-Stack Development Student @ [Trybe](https://www.betrybe.com/) <b>#VQV</b>  🚀
+- Learning Full-Stack Development @ [Trybe](https://www.betrybe.com/) <b>#VQV</b>  🚀
 
 
 Passionate about technology and to constantly learn new skills. What motivates me the most is being able to use all my knowledge on solutions that can contribute to our community.
