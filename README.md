@@ -1,22 +1,13 @@
-## Oi, me chamo Marllon! 👋
+## Hi, I'm Marllon 👋
 
-- Graduando em Sistemas de Informação pela [UNESA](https://estacio.br/maracana) no Rio de Janeiro 🏖️
+- Bachelor's in Computer Information Science @ [UNESA](https://estacio.br/maracana) in Rio de Janeiro  🏖️
 
-- Estudante de desenvolvimento Full-Stack na [Trybe](https://www.betrybe.com/) <b>#VQV</b> 🚀
+- Full-Stack Development Student @ [Trybe](https://www.betrybe.com/) <b>#VQV</b>  🚀
 
 
-Sou apaixonado por tecnologia e me amarro em constantemente estar aprendendo novas skills! O que mais me motiva é poder utilizar todos os meus conhecimentos adquiridos academicamente em soluções que possam contribuir pra nossa comunidade.
+Passionate about technology and to constantly learn new skills. What motivates me the most is being able to use all my knowledge on solutions that can contribute to our community.
 
-Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, TypeScript e SOLID. 👨‍💻
-
-#### Fale comigo! 🤙
-
-<a href="https://www.linkedin.com/in/marllomartins/">
-<img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="Linkedin"
-/>
-</a>
+Currently learning Node.js, Mocha, Chai and Sinon, API Rest and Restful, TypeScript and SOLID. 👨‍💻
 
 #
 
@@ -116,6 +107,6 @@ Atualmente estou estudando Node.js, Mocha, Chai e Sinon, API Rest e Restful, Typ
 #
 
 <div style="display: inline_block">
-<img height="140"  src="https://github-readme-stats.vercel.app/api?username=marllomartin&show_icons=true&theme=swift&include_all_commits=true&count_private=true&hide=stars,issues&locale=pt-br">
-<img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllomartin&layout=compact&theme=swift&locale=pt-br">  
+<img height="140"  src="https://github-readme-stats.vercel.app/api?username=marllomartin&show_icons=true&theme=swift&include_all_commits=true&count_private=true&hide=stars,issues&locale=en">
+<img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllomartin&layout=compact&theme=swift&locale=en">  
 </div>
