@@ -45,6 +45,14 @@ Currently learning Node.js, Mocha, Chai and Sinon, API Rest and Restful, TypeScr
     height="40" 
 />
 </a>
+<a href="https://jestjs.io/">
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+    alt="Jest"
+    width="40"
+    height="40"
+/>
+</a>
 <a href="https://reactjs.org/">
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -86,6 +94,7 @@ Currently learning Node.js, Mocha, Chai and Sinon, API Rest and Restful, TypeScr
     height="40"
 />
 </a>
+
 <a href="https://www.mysql.com/">
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" 
