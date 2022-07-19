@@ -100,7 +100,14 @@ Currently learning Node.js, Mocha, Chai and Sinon, TypeScript, OOP and SOLID. ðŸ
     height="35"
 />
 </a>
-
+<a href="https://www.mongodb.com/">
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"" 
+    alt="MongoDB"
+    width="35"
+    height="35"
+/>
+</a>
 <a href="https://www.mysql.com/">
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" 
