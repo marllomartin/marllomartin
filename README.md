@@ -8,7 +8,7 @@
 
 Passionate about technology and to constantly learn new skills. What motivates me the most is being able to use all my knowledge on solutions that can contribute to our community.
 
-Currently learning Node.js, Mocha, Chai and Sinon, TypeScript, OOP and SOLID. 👨‍💻
+Currently learning TypeScript, MongoDB and Mongoose. 👨‍💻
 
 <br>
 
