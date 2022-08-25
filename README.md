@@ -6,7 +6,7 @@
 - Learning Full-Stack Development @ [Trybe](https://www.betrybe.com/) <b>#VQV</b>  🚀
 
 
-Passionate about technology and to constantly learn new skills. What motivates me the most is being able to use all my knowledge on solutions that can contribute to our community.
+Passionate about technology and to constantly learn new skills. What motivates me the most is being able to use all my knowledge on solutions that can solve problems and contribute to our community.
 
 Currently learning TypeScript, MongoDB and Mongoose. 👨‍💻
 
