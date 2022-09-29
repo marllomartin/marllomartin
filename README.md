@@ -13,6 +13,7 @@ Currently learning Python and Object Oriented Programming. 👨‍💻
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E1116?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&logoWidth=25)](https://www.linkedin.com/in/marllomartins/)
+[![Mail](https://img.shields.io/badge/Email-0E1116?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&logoWidth=25)](mailto:marllonmartinsmgmt@gmail.com)
 
 ##
 
