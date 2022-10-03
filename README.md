@@ -8,7 +8,7 @@
 
 Passionate about technology and to constantly learn new skills. What motivates me the most is being able to use all my knowledge on solutions that can solve problems and contribute to our community.
 
-Currently learning Python and Object Oriented Programming. 👨‍💻
+Currently learning Python and Data Scraping. 👨‍💻
 
 <br>
 
