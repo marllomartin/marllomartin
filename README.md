@@ -117,6 +117,14 @@ Currently learning Python and Data Scraping. 👨‍💻
     height="35"
 />
 </a>
+<a href="https://www.postgresql.org/">
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
+    alt="PostgreSQL"
+    width="35"
+    height="35"
+/>
+</a>
 <a href="https://www.docker.com/">
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
