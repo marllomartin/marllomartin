@@ -103,8 +103,16 @@ Currently learning Python and Data Scraping. 👨‍💻
 </a>
 <a href="https://www.mongodb.com/">
 <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"
     alt="MongoDB"
+    width="35"
+    height="35"
+/>
+</a>
+<a href="https://redis.io/">
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" 
+    alt="Redis"
     width="35"
     height="35"
 />
