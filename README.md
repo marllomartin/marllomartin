@@ -6,7 +6,7 @@
 - Full-Stack Development Beyond @ [Trybe](https://www.betrybe.com/) <b>#VQV</b>  🚀
 
 
-Passionate about technology and to constantly learn new skills. What motivates me the most is being able to use all my knowledge on solutions that can solve problems and contribute to our community.
+Passionate about technology and to constantly improve my skills. What motivates me the most is being able to use all my knowledge on solutions that can solve problems and contribute to our community.
 
 Currently learning Python and Data Scraping. 👨‍💻
 
