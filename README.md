@@ -80,6 +80,14 @@ Currently learning Python and Data Scraping. 👨‍💻
     height="35"
 />
 </a>
+<a href="https://mui.com/">
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg"
+    alt="MaterialUI"
+    width="35"
+    height="35"
+/>
+</a>
 <a href="https://nodejs.org/en/">
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
