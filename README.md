@@ -3,7 +3,9 @@
 
 - Computer Information Systems Student @ [UNESA](https://estacio.br/maracana) in Rio de Janeiro  🏖️
 
-- Beyond Developer @ [Trybe](https://www.betrybe.com/) <b>#VQV</b>  🚀
+- Full Stack Developer @ [Atlas](https://www.atlasgr.com.br/) 🚚
+
+- Beyond @ [Trybe](https://www.betrybe.com/) <b>#VQV</b>  🚀
 
 
 Passionate about technology and to constantly improve my skills. What motivates me the most is being able to use all my knowledge on solutions that can solve problems and contribute to our community.
@@ -13,6 +15,7 @@ Currently learning Python and Data Scraping. 👨‍💻
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E1116?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&logoWidth=25)](https://www.linkedin.com/in/marllomartins/)
+[![GitLab](https://img.shields.io/badge/GitLab-0E1116?style=for-the-badge&logo=Gitlab&logoColor=FFFFFF&logoWidth=25)](https://gitlab.com/marllomartin)
 [![Mail](https://img.shields.io/badge/Email-0E1116?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&logoWidth=25)](mailto:marllonmartinsmgmt@gmail.com)
 
 ##
