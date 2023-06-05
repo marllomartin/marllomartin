@@ -10,7 +10,7 @@
 
 Passionate about technology and to constantly improve my skills. What motivates me the most is being able to use all my knowledge on solutions that can solve problems and contribute to our community.
 
-Currently learning Python and Data Scraping. 👨‍💻
+Currently working and wandering around. 🍃
 
 <br>
 
