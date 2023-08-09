@@ -80,6 +80,14 @@ Currently working and wandering around. 🍃
     height="35"
 />
 </a>
+<a href="https://nextjs.org/">
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+    alt="NextJS"
+    width="35"
+    height="35"
+/>
+</a>
 <a href="https://mui.com/">
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg"
