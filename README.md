@@ -30,9 +30,17 @@ Currently working and wandering around. 🍃
 />
 </a>
 <a href="https://www.w3schools.com/css/">
-<img
+  <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
      alt="CSS3"
+     width="35"
+     height="35"
+  />   
+</a>
+<a href="https://www.php.net/">
+<img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
+     alt="PHP"
      width="35"
      height="35"
 />   
@@ -130,6 +138,14 @@ Currently working and wandering around. 🍃
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" 
     alt="Redis"
+    width="35"
+    height="35"
+/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022">
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+    alt="Microsoft SQL Server"
     width="35"
     height="35"
 />
