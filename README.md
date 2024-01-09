@@ -5,8 +5,6 @@
 
 - Full Stack Developer @ [Atlas](https://www.atlasgr.com.br/) 🚚
 
-- Beyond @ [Trybe](https://www.betrybe.com/) <b>#VQV</b>  🚀
-
 
 Passionate about technology and to constantly improve my skills. What motivates me the most is being able to use all my knowledge on solutions that can solve problems and contribute to our community.
 
@@ -166,7 +164,4 @@ Currently working and wandering around. 🍃
 
 <br>
 
-<div style="display: inline_block">
-<img height="140"  src="https://github-readme-stats.vercel.app/api?username=marllomartin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars,issues&locale=en">
-<img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllomartin&layout=compact&theme=github_dark&locale=en">  
-</div>
+<img height="160" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllomartin&layout=compact&theme=github_dark&locale=en">  
