@@ -41,7 +41,7 @@ Currently working and wandering around. 🍃
 </a>
 <a href="https://www.php.net/">
 <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
+     src="https://www.svgrepo.com/show/303208/php-1-logo.svg"
      alt="PHP"
      width="35"
      height="35"
