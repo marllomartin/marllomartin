@@ -154,7 +154,7 @@ Currently working and wandering around. 🍃
 </a>
 <a href="https://www.mysql.com/">
 <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
     alt="MySQL"
     width="35"
     height="35"
