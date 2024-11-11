@@ -8,7 +8,7 @@
 
 Passionate about technology and to constantly improve my skills. What motivates me the most is being able to use all my knowledge on solutions that can solve problems and contribute to our community. 
 
-I'm mostly active on [GitLab](https://gitlab.com/marllomartin).
+I'm also on [GitLab](https://gitlab.com/marllomartin).
 
 Currently working and wandering around. 🍃
 
