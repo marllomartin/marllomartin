@@ -168,10 +168,26 @@ Currently working and wandering around. 🍃
     height="35"
 />
 </a>
+<a href="https://www.rabbitmq.com/">
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
+    alt="RabbitMQ"
+    width="35"
+    height="35"
+/>
+</a>
 <a href="https://www.docker.com/">
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
     alt="Docker"
+    width="35"
+    height="35"
+/>
+</a>
+<a href="https://kubernetes.io/">
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg"
+    alt="Kubernetes"
     width="35"
     height="35"
 />
