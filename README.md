@@ -6,7 +6,7 @@
 - Full Stack Developer @ [Atlas](https://www.atlasgr.com.br/) 🚚
 
 
-Passionate about technology and to constantly improve my skills. What motivates me the most is being able to use all my knowledge on solutions that can solve problems and contribute to our community. 
+Passionate about technology and exploring new ideas. What motivates me most is using my knowledge to create clever solutions that solve problems, while always striving to grow and improve my skills.
 
 I'm also on [GitLab](https://gitlab.com/marllomartin).
 
