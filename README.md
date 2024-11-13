@@ -39,6 +39,14 @@ Currently working and wandering around. 🍃
      height="35"
   />   
 </a>
+<a href="https://tailwindcss.com/">
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+     alt="Tailwind CSS"
+     width="35"
+     height="35"
+  />   
+</a>
 <a href="https://www.php.net/">
 <img
      src="https://www.svgrepo.com/show/303208/php-1-logo.svg"
