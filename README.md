@@ -39,7 +39,7 @@ Currently working and wandering around. 🍃
      height="30"
   />   
 </a>
-<a href="https://tailwindcss.com/">
+<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
   <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
      alt="Tailwind CSS"
