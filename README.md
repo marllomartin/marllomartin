@@ -10,7 +10,7 @@ Passionate about technology and exploring new ideas. What motivates me most is u
 
 I'm also on [GitLab](https://gitlab.com/marllomartin).
 
-Currently working and wandering around. 🍃
+Currently working, studying and wandering around. 🍃
 
 <br>
 
