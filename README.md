@@ -6,10 +6,6 @@
 
 Passionate about technology and exploring new ideas. What motivates me most is using my knowledge to create clever solutions that solve problems, while always striving to grow and improve my skills.
 
-I'm also on [GitLab](https://gitlab.com/marllomartin).
-
-Currently working, studying and wandering around. 🍃
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E1116?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&logoWidth=25)](https://www.linkedin.com/in/marllomartins/)
