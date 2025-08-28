@@ -1,10 +1,11 @@
 <h2>Hi, I'm Marllon <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 
-- Computer Information Systems Student @ [UNESA](https://estacio.br/maracana) in Rio de Janeiro  🏖️
+I'm a software developer passionate about technology and exploring new ideas. What motivates me most is using my knowledge to create clever solutions that solve problems, while always striving to grow and improve my skills.
 
+<br>
 
-Passionate about technology and exploring new ideas. What motivates me most is using my knowledge to create clever solutions that solve problems, while always striving to grow and improve my skills.
+You can also find me in:
 
 <br>
 
