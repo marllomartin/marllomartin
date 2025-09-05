@@ -10,7 +10,6 @@ You can also find me in:
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E1116?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&logoWidth=25)](https://www.linkedin.com/in/marllomartins/)
-[![GitLab](https://img.shields.io/badge/GitLab-0E1116?style=for-the-badge&logo=Gitlab&logoColor=FFFFFF&logoWidth=25)](https://gitlab.com/marllomartin)
 [![Mail](https://img.shields.io/badge/Email-0E1116?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&logoWidth=25)](mailto:marllonmartinsmgmt@gmail.com)
 
 ##
