@@ -1,6 +1,6 @@
 <h2>Hi, I'm Marllon <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-I’m a software developer motivated by technology and new ideas. I work with diverse teams to build products that solve real problems through thoughtful, practical innovation, turning real needs into reliable software that creates value and improves how people and teams work.
+I’m a software developer motivated by technology and new ideas. I work with diverse teams to build products that solve real problems through thoughtful, practical innovation, turning real needs into reliable software that creates value and improves how people and teams work. Currently, I work on a logistics security product that has helped prevent accidents and cargo theft across more than 600 transportation companies in Brazil, including the country’s largest fuel distributor.
 
 <br>
 
