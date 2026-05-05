@@ -1,12 +1,12 @@
-<h2>Hi, I'm Marllon <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2>Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-I’m a software developer motivated by technology and new ideas. I enjoy working with diverse teams to build products that solve real problems through thoughtful, practical innovation, turning real needs into reliable software that creates value and improves how people and teams work. 
+I'm a software developer focused on building practical systems that solve real problems.
 
-Currently, I work on a logistics security product that has helped prevent accidents and cargo theft across more than 600 transportation companies in Brazil, including the country’s largest fuel distributor. I’m also focused on understanding how AI is reshaping coding workflows and actively exploring new approaches to building platforms and SaaS products in this evolving landscape.
+Currently working on a logistics security platform used by 600+ transportation companies in Brazil, helping reduce accidents and cargo theft. Also exploring how AI is changing development workflows and how to apply it to SaaS products.
 
 <br>
 
-You can also find me on:
+Find me here:
 
 <br>
 
